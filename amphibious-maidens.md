@@ -1,4 +1,13 @@
-## 两栖少女
+---
+title: 'Ccru :: 两栖少女'
+tags:
+  - Ccru
+  - 加速主义
+categories:
+  - - 翻译
+  - - '加速主义'
+date: 2021-02-20
+---
 
 **两栖少女**是Suzanne Livingstone, Luciana Parisi, Anna Greenspan三位女性学者1998年为Ccru写的一篇神秘文字。
 
